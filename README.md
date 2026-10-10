@@ -1,8 +1,12 @@
 # Biology Graduate | Aspiring Data Engineer 👋
 
-I'm a biology graduate transitioning into data engineering. During university, I developed an interest in programming and working with data through projects involving statistical analysis, simulation and visualisation in **R**.
+I'm a Biology graduate currently transitioning into data engineering.
 
-I'm now building on that foundation and working towards a career in data engineering, with **Python, SQL, relational databases and data pipelines** next on my learning roadmap.
+During my second year at university, I studied Ecological Data Analysis, which introduced me to working with biological datasets and using R for statistical analysis. I found myself particularly interested in the programming and data analysis side of the course, so in my third year I chose Advanced Data Analysis as one of my optional modules.
+
+Through these modules, I developed experience in data manipulation, statistical modelling, simulation and visualisation. They helped me realise that working with data was something I wanted to pursue beyond my biology degree.
+
+I'm now working towards a career in data engineering, building on my existing R experience while developing my knowledge of Python, SQL, databases and data pipelines.
 
 ## Technical experience
 
