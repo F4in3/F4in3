@@ -6,7 +6,7 @@ During my second year at university, I studied Ecological Data Analysis, which i
 
 Through these modules, I developed experience in data manipulation, statistical modelling, simulation and visualisation. They helped me realise that working with data was something I wanted to pursue beyond my biology degree.
 
-I'm now working towards a career in data engineering, building on my existing R experience while developing my knowledge of Python, SQL, databases and data pipelines.
+I'm now working towards a career in data analysis, science or engineering, building on my existing R experience while developing my knowledge of Python, SQL, databases and data pipelines.
 
 ## Technical experience
 
